@@ -80,6 +80,18 @@ Recovery Time: 1 Week
 --------------------------------------------------------------
 Thank You! (Your Life, Our Care)
 
+
+## ✨ Output Highlights
+
+🧠 Intelligent symptom-based disease detection
+
+📝 Auto-generated medical report
+
+💊 Suggested treatment plan
+
+⏳ Estimated recovery time
+
+🖥 Clean and user-friendly console interface
 ## 🚀 Future Enhancements
 - Graphical User Interface (GUI) using JavaFX or Swing
 - Database integration for storing patient records
