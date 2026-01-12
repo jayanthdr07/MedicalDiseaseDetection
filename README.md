@@ -38,6 +38,47 @@ This project is developed using core Java concepts and is intended for education
 - Console-based application practice
 
 ---
+🏥 Welcome Screen
+==============================================================
+   WELCOME TO ONLINE MEDICAL TEST (Your Life, Our Care)
+==============================================================
+Enter Name   : Jayanth
+Enter Gender : Male
+Enter Age    : 21
+
+📋 Symptom Questionnaire
+Answer the following questions (yes/no):
+--------------------------------------------------------------
+Do you have cough? yes
+Do you have running nose? yes
+Do you have sneezing? yes
+Do you have shortness of breath? no
+Do you have chest pain? no
+Do you have digestive issues? no
+Do you have stomach ache? no
+Do you have high body temperature? no
+Do you have cold hands or legs? no
+Do you have headache? yes
+--------------------------------------------------------------
+
+🧾 Disease Detection Result
+?? Disease Identified: COMMON COLD
+--------------------------------------------------------------
+Treatment Plan:
+Drink hot lemon water with honey
+Take antiviral medication
+Drink plenty of water
+Take proper rest
+Avoid cold exposure
+--------------------------------------------------------------
+MEDICAL REPORT
+Patient Name : Jayanth
+Gender       : Male
+Age          : 21
+Disease      : COMMON COLD
+Recovery Time: 1 Week
+--------------------------------------------------------------
+Thank You! (Your Life, Our Care)
 
 ## 🚀 Future Enhancements
 - Graphical User Interface (GUI) using JavaFX or Swing
