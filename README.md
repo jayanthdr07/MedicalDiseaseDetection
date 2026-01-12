@@ -49,8 +49,7 @@ This project is developed using core Java concepts and is intended for education
 ---
 
 ## 👨‍💻 Author
-Developed by **[Your Name]**  
-Java Developer | Student
+Developed by **JAYANTH D R **
 
 ---
 
