@@ -106,5 +106,3 @@ Developed by **JAYANTH D R **
 
 ---
 
-## 📜 License
-This project is open-source and intended for educational use only.
